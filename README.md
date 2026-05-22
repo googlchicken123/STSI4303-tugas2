@@ -1,5 +1,10 @@
 # Tugas 2 - STSI4303
 
+## Preview UI
+<p align="center">
+  <img src="./src/theme/Screenshot_1.jpg" width="900">
+</p>
+
 ## Identitas
 - **Nama:** Reza Rinaldi
 - **NIM:** 050601026
